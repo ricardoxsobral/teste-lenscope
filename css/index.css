@@ -1,0 +1,46 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #242424;
+    border-radius: 8px;
+    padding: 15px;
+    margin-top: 130px;
+    
+}
+input{
+    border-radius: 5px;
+}
+.title{
+    text-align: center
+}
+.esferico{
+    display: flex;
+    flex-direction: column;
+    
+}
+.cilindrico{
+    display: flex;
+    flex-direction: column;
+}
+.esferico-od{
+    margin-bottom: 14px;
+}
+.esferico-oe{
+    margin-bottom: 14px;
+}
+.cilindrico-od{
+    margin-bottom: 14px;
+}
+.cilindrico-od{
+    margin-bottom: 14px;
+}
+.enviar{
+    margin-top: 10px;
+    text-align: center
+}
+.show{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 50px;
+}
